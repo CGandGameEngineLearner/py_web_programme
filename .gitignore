@@ -162,5 +162,5 @@ cython_debug/
 # Executable
 *.exe
 
-# Temp file
-~$*
+# Docx file
+*.docx
