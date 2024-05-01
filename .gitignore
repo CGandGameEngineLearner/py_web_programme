@@ -162,5 +162,5 @@ cython_debug/
 # Executable
 *.exe
 
-# Crawled files
-**/crawled_files/
+# Temp file
+~$*
