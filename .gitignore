@@ -161,6 +161,3 @@ cython_debug/
 
 # Executable
 *.exe
-
-# Docx file
-*.docx
