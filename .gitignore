@@ -161,3 +161,6 @@ cython_debug/
 
 # Executable
 *.exe
+
+# Jupyter
+.ipynb_checkpoints
