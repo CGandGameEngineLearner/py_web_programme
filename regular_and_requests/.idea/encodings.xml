@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/右键运行此PowerShell脚本自动初始化开发环境.ps1" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/右键运行此PowerShell脚本全自动启动项目.ps1" charset="GBK" />
     <file url="file://$PROJECT_DIR$/点击以管理员身份运行此bat自动安装开发环境.bat" charset="GBK" />
   </component>
 </project>
