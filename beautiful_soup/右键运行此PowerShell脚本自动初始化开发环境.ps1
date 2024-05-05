@@ -51,4 +51,4 @@ python -m venv venv
 pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
 
 # 通过jupyter打开
-jupyter notebook ./src/main.ipynb
+jupyter notebook ./第8次实验报告-2024.ipynb
